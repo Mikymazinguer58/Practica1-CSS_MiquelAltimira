@@ -1,0 +1,38 @@
+.banner_img{
+    width:100%;
+    border-radius: 5px;
+}
+nav{
+    clear:both;
+	background-color: #222;
+	box-shadow: 2px 3px 1px gray;
+	border-radius: 5px;
+	margin: 10px;
+	text-align:center;
+	overflow:auto;
+}
+ul{
+	padding: 5px;
+}
+ul li{
+	margin: 7px;
+	padding: 7px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 20px;
+	border-radius: 15px 50px;
+
+}
+ul li:hover{
+	background-color: rgb(116, 116, 116);
+}
+ul li a{
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+	text-decoration: none;
+}
+footer{
+	color: black;
+	text-align: center;
+	padding: 10px;
+}
